@@ -1,0 +1,249 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "06970b96-47ce-453c-b86d-a7e28135989d")
+	(paper "A4")
+	(title_block
+		(title "Mazzy")
+		(date "2026-04-26")
+		(rev "1")
+		(company "Jasper Mayone")
+	)
+	(lib_symbols)
+	(sheet
+		(at 201.93 30.48)
+		(size 71.12 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4ca3e0ed-18a8-4b38-9acd-3543a3f145f1")
+		(property "Sheetname" "Peripherals"
+			(at 201.93 29.7684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 201.93 70.4346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mazzy"
+				(path "/06970b96-47ce-453c-b86d-a7e28135989d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 24.13)
+		(size 66.04 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "61a95829-b188-4243-b3fa-0f808b458ca7")
+		(property "Sheetname" "Power"
+			(at 22.86 23.4184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 22.86 59.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mazzy"
+				(path "/06970b96-47ce-453c-b86d-a7e28135989d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 80.01)
+		(size 88.9 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9dbbb396-5b09-42e7-83dc-ed5d3f1a7295")
+		(property "Sheetname" "Comms"
+			(at 109.22 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Comms.kicad_sch"
+			(at 109.22 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mazzy"
+				(path "/06970b96-47ce-453c-b86d-a7e28135989d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 78.74)
+		(size 71.12 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "af5f9d56-191b-4978-a327-93c08ef9b287")
+		(property "Sheetname" "CAN"
+			(at 24.13 78.0284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 24.13 111.0746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mazzy"
+				(path "/06970b96-47ce-453c-b86d-a7e28135989d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 24.13)
+		(size 80.01 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "eeaaaab4-9050-4b91-9a45-813a0836e492")
+		(property "Sheetname" "Compute"
+			(at 106.68 23.4184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compute.kicad_sch"
+			(at 106.68 59.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Mazzy"
+				(path "/06970b96-47ce-453c-b86d-a7e28135989d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
