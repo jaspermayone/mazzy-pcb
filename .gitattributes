@@ -1,0 +1,20 @@
+# KiCad 6/7/8 project files (YAML-ish text)
+*.kicad_pro text
+*.kicad_sch text
+*.kicad_pcb text
+*.kicad_sym text
+*.kicad_wks text
+*.kicad_dru text
+
+# Old-style libs and footprints (still text)
+*.lib text
+*.dcm text
+*.kicad_mod text
+*.pretty/* text
+
+# BOMs, reports, etc.
+*.csv text
+*.tsv text
+*.xml text
+*.net text
+
